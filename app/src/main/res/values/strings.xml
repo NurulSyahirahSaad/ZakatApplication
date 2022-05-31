@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Zakat Application</string>
+    <string name="homepage">Zakat VS Gold</string>
+    <string name="title">Estimating Zakat Payment for Gold Keeping</string>
+    <string name="copyright">Copyright &#169; 2022 Maisarah Aisisa and Nurul Syahirah</string>
+    <string name="hyperlink">Explore more at <a href="......">Zakat Information.com</a></string>
+    <string name="information">What is Zakat</string>
+    <string name="maisarah">Name - Maisarah Binti Aisisa
+     Student ID - 2021340585 Group - RCS2405B Programme Code - CS240
+    </string>
+    <string name="syahirah">Name - Nurul Syahirah Binti Md Saad
+    Student ID - 2021156259 Group - RCS2405B Programme Code - CS240
+    </string>
+    <string name="pagename">Zakat Estimating Payment</string>
+    <string name="formula">The Total Value of Gold : Weight (g) * Value per (g)</string>
+    <string name="formula1">Total Zakat Payable : (Weight (g) - keepOrWear) * Value per (g)</string>
+    <string name="formula2">The Total Zakat : 2.5% * Zakat Payable</string>
+    <string name="step">Please Enter the Weight (g) and gold value per (g) :</string>
+    <string name="choose">Choose whether you want to keep or wear :</string>
+</resources>
